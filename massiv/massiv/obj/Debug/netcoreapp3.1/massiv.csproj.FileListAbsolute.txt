@@ -1,0 +1,13 @@
+/Users/mak/Projects/massiv/massiv/bin/Debug/netcoreapp3.1/massiv.deps.json
+/Users/mak/Projects/massiv/massiv/bin/Debug/netcoreapp3.1/massiv.runtimeconfig.json
+/Users/mak/Projects/massiv/massiv/bin/Debug/netcoreapp3.1/massiv.runtimeconfig.dev.json
+/Users/mak/Projects/massiv/massiv/bin/Debug/netcoreapp3.1/massiv.dll
+/Users/mak/Projects/massiv/massiv/bin/Debug/netcoreapp3.1/massiv.pdb
+/Users/mak/Projects/massiv/massiv/obj/Debug/netcoreapp3.1/massiv.csproj.AssemblyReference.cache
+/Users/mak/Projects/massiv/massiv/obj/Debug/netcoreapp3.1/massiv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mak/Projects/massiv/massiv/obj/Debug/netcoreapp3.1/massiv.AssemblyInfoInputs.cache
+/Users/mak/Projects/massiv/massiv/obj/Debug/netcoreapp3.1/massiv.AssemblyInfo.cs
+/Users/mak/Projects/massiv/massiv/obj/Debug/netcoreapp3.1/massiv.csproj.CoreCompileInputs.cache
+/Users/mak/Projects/massiv/massiv/obj/Debug/netcoreapp3.1/massiv.dll
+/Users/mak/Projects/massiv/massiv/obj/Debug/netcoreapp3.1/massiv.pdb
+/Users/mak/Projects/massiv/massiv/obj/Debug/netcoreapp3.1/massiv.genruntimeconfig.cache
